@@ -1,6 +1,11 @@
 # flu_news
 
-A new Flutter application.
+Flu-News :- A Flutter app for iOS and Android both (though iOS UI part is left but I will update it soon) which will show you the top Tech news around the world ( powered by newsapi.org ).
+
+This is just a starting project in Flutter.Those who are interested in Flutter can look around the source code.
+
+Most exciting part is Google recently launched Flutter for web (Hummingbird)😍, which means we can develop web applications with Flutter.
+And Flutter for Desktop ( Coming...)
 
 ## Getting Started
 
