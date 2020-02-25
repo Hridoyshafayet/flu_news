@@ -4,6 +4,8 @@ Flu-News :- A Flutter app for iOS and Android both (though iOS UI part is left b
 
 This is just a starting project in Flutter.Those who are interested in Flutter can look around the source code.
 
+<a href="https://imgflip.com/gif/3q8kyr"><img src="https://i.imgflip.com/3q8kyr.gif" title="made at imgflip.com"/></a>
+
 Most exciting part is Google recently launched Flutter for web (Hummingbird)😍, which means we can develop web applications with Flutter.
 And Flutter for Desktop ( Coming...)
 
